@@ -2,10 +2,8 @@
 /// ROADMAP ///
 ///////////////
 
-1) Installing UE5 and Blender for everyone, by Okt
-2) Designing in blender, by Nov-Feb
-3) Blender creation, while Designing Game, by Nov-Feb
-4) UE5 Export system, and creator writing, by Dec-Mar
-5) UE5 Character creation and shooting mechanism, by Dec-Mar
-6) First game tests to the public, by May
-7) Setting up a website & server, by Sept
+1) Installing UE5 and Blender for everyone
+2) Designing in blender / Blender creation, while Designing Game
+3) UE5 Export system, and creator writing / UE5 Character creation and shooting mechanism
+4) First game tests to the public
+5) Setting up a website & server
