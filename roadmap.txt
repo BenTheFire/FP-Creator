@@ -8,3 +8,4 @@
 4) UE5 Export system, and creator writing, by Dec-Mar
 5) UE5 Character creation and shooting mechanism, by Dec-Mar
 6) First game tests to the public, by May
+7) Setting up a website & server, by Sept
